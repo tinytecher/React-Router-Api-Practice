@@ -1,0 +1,25 @@
+.pokemon-container {
+	justify-content: center;
+}
+
+.pokemon-one {
+	width: 300px;
+	height: 300px;
+	padding: 30px;
+	margin: 10px;
+	text-align: center;
+	background-color: rgb(245, 180, 164);
+}
+
+.pokemon-two {
+	width: 300px;
+	height: 300px;
+	padding: 20px;
+	margin: 30px;
+	text-align: center;
+	background-color: rgb(189, 237, 215);
+}
+
+.pokemon-image {
+	width: 200px;
+}

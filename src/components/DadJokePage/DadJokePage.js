@@ -30,7 +30,7 @@ export default function DadJokePage() {
 					alt='logo'
 				></img>
 			</div>
-			<p>{response.joke}</p>
+			<p className="dad-joke">{response.joke}</p>
             <div className="button-constainer">
 			<button className="dad-button" onClick={handleClick}>Get Dad Joke</button>
             </div>
