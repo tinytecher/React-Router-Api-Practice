@@ -1,0 +1,32 @@
+.dadjoke-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.speech-logo {
+    width: 150px;
+}
+
+.dad-logo {
+    width: 300px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+p {
+    text-align: center;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    font-size: 27px;
+}
+
+.button-container {
+    display: flex;
+}
+
+.dad-button {
+
+    margin-left: 46%;
+}
+
