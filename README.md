@@ -7,4 +7,4 @@ Use CSS framework to add style, eg Sass / Chakra
 
 ### npm i
 
-### `npm start`
+
