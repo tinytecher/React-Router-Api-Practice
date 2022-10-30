@@ -46,6 +46,7 @@ export default function PokemonPage() {
 
   return (
     <div className='pokemon-container'>
+   
     <div className='pokemon-one'>
         <p>{response.name}</p>
         {response.moves && (
@@ -60,6 +61,8 @@ export default function PokemonPage() {
         <button onClick={handleClick}>
             Get Random Pokemon One
         </button>
+    </div>
+       
         <div className='pokemon-two'>
         <p>{responseTwo.name}</p>
         {responseTwo.moves && (
@@ -76,7 +79,6 @@ export default function PokemonPage() {
         </button>
         </div>
         
-    </div>
     </div>
     
   )
