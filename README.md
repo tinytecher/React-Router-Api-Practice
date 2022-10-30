@@ -2,7 +2,7 @@
 
 Using React Router to practice custom hooks and fetching data from various API's. 
 
-<img width="846" alt="Screenshot 2022-10-23 at 01 55 08" src="https://user-images.githubusercontent.com/79761202/197368019-e68bd3fb-d67a-4f08-bd03-630b655ed4ee.png">
+<img width="788" alt="Screenshot 2022-10-30 at 01 24 25" src="https://user-images.githubusercontent.com/79761202/198858468-532f3d9f-8741-4e99-82c2-963c5b3d927b.png">
 
 Stretch Goals 
 - Implement a backend
